@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABB",
+      "BCB",
+      "BBB"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot"
+      },
+      "B": {
+        "item": "minecraft:netherrack"
+      },
+      "C": {
+        "item": "minecraft:quartz"
+      }
+    },
+    "result": {
+      "item": "mithrilutils:portal_calculator"
+    }
+  }

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "S S",
+      "SIS"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:netherite_scrap"
+      },
+      "I": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "mithrilutils:mold"
+    }
+  }

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "BBB",
+      "B#B",
+      "BMB"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:blaze_powder"
+      },
+      "M": {
+        "item": "mithrilutils:mold"
+      },
+      "#": {
+        "item": "mithrilutils:mithril_ore"
+      }
+    },
+    "result": {
+      "item": "mithrilutils:mithril_mold"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "mithrilutils:mithril_ingot"
+      }
+    },
+    "result": {
+      "item": "mithrilutils:mithril_block"
+    }
+  }

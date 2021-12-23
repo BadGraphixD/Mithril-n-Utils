@@ -1,0 +1,15 @@
+{
+    "item.mithrilutils.portal_calculator": "Portalberechner",
+    "item.mithrilutils.mold": "Gussform",
+    "item.mithrilutils.mithril_mold": "Mithril Gussform",
+    "item.mithrilutils.mithril_clump": "Mithrilklumpen",
+    "item.mithrilutils.mithril_ingot": "Mithrilbarren",
+    "item.mithrilutils.mithril_helmet": "Mithrilhelm",
+    "item.mithrilutils.mithril_chestplate": "Mithrilharnisch",
+    "item.mithrilutils.mithril_leggings": "Mithrilbeinschutz",
+    "item.mithrilutils.mithril_boots": "Mithrilstiefel",
+    "block.mithrilutils.cold_mithril_ore_0": "Kaltes Mithrilerz",
+    "block.mithrilutils.cold_mithril_ore_1": "Warmes Mithrilerz",
+    "block.mithrilutils.mithril_ore": "Geschmolzenes Mithrilerz",
+    "block.mithrilutils.mithril_block": "Mithrilblock"
+}

@@ -1,0 +1,15 @@
+{
+    "item.mithrilutils.portal_calculator": "Portal Calculator",
+    "item.mithrilutils.mold": "Mold",
+    "item.mithrilutils.mithril_mold": "Mithril Mold",
+    "item.mithrilutils.mithril_clump": "Mithril Clump",
+    "item.mithrilutils.mithril_ingot": "Mithril Ingot",
+    "item.mithrilutils.mithril_helmet": "Mithril Helmet",
+    "item.mithrilutils.mithril_chestplate": "Mithril Chestplate",
+    "item.mithrilutils.mithril_leggings": "Mithril Leggings",
+    "item.mithrilutils.mithril_boots": "Mithril Boots",
+    "block.mithrilutils.cold_mithril_ore_0": "Cold Mithril Ore",
+    "block.mithrilutils.cold_mithril_ore_1": "Warm Mithril Ore",
+    "block.mithrilutils.mithril_ore": "Molten Mithril Ore",
+    "block.mithrilutils.mithril_block": "Mithril Block"
+}
