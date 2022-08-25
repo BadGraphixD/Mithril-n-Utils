@@ -1,7 +1,7 @@
 # Mithril-n-Utils
-A minecraft fabric mod, which adds new armor, ores and items. I created it not to be distributed, but for my own hardcore world to make the game a bit easier.
+A minecraft fabric mod, which adds new armour, ores and items. I created it not to be distributed, but for my own hardcore world to make the game a bit easier.
 ## Armour
-Includes 4 mithril-armour pieces, which are an upgraded form of netherite armor. Wearing all pieces but the chest piece gives 20 armour points.
+Includes 4 mithril-armour pieces, which are an upgraded form of netherite armour. Wearing all pieces but the chest piece gives 20 armour points.
 ## Ore
 The mithril-ore generates inside the bedrock layer and can only be mined, if heated up by placing lava next to it.
 ## Items
